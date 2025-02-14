@@ -1,7 +1,9 @@
 ## Hi there and welcome to whereiskevin! 👋
 
 🙋‍♀️ A short introduction - whereiskevin is an AI-powered travel companion designed to enhance the travel planning and exploration experience.
+
 🌈 Contribution guidelines - in case you wanna help out then let us know at **contact@whereiskevin.com**
+
 👩‍💻 Useful resources - for more info check out our [website](https://whereiskevin.com)!
 
 Here's a demo!
